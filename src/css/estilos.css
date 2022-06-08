@@ -136,6 +136,7 @@ input{
 
 .cont{
     background-color: black;
+    display: block;
     overflow-x: hidden;
     width:260px;
     height:270px;
@@ -284,7 +285,7 @@ article{
     display: block;
     overflow-x: hidden;
     width:580px;
-    height:320px;
+    height:300px;
     margin:30px;
     border-radius: 5%;
 }
@@ -467,3 +468,4 @@ align-self: center;
 @import "../node_modules/bootstrap/scss/grid";
 @import "../node_modules/bootstrap/scss/helpers";
 @import "../node_modules/bootstrap/scss/utilities/api";
+
